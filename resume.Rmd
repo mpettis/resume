@@ -212,3 +212,22 @@ St. Paul, MN
 2020
 
 Teaching course on the basics of time series forecasting in R.
+
+
+
+
+Other Notes {data-icon=file}
+--------------------------------------------------------------------------------
+
+### Code examples
+
+Code examples
+
+Minneapolis, MN
+
+Present
+
+- Time zone manipulation in R, delivered to R User Group: https://gist.github.com/mpettis/1ae48bd46e77e67bccd7fb43a8ba2a8d
+- dplyr and plyr package, delivered to R User Group: https://gist.github.com/mpettis/70dcb33f7328e21ec485fdf8727c97ef
+- Non-standard evaluation and standard evaluation in R, delivered to R User Group: https://gist.github.com/mpettis/5fc5e2d2d7d54291e047e59fb5baf1ea
+- Reinforcement Learning for simple thermostat, submitted for use for documentation with tensorflow package: https://github.com/tensorforce/tensorforce/pull/671 
