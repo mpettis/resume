@@ -19,6 +19,7 @@ Contact Info {#contact}
 - <i class="fa fa-envelope"></i> matthew.pettis@gmail.com
 - <i class="fa fa-github"></i> [github.com/mpettis](https://github.com/mpettis)
 - <i class="fa fa-phone"></i> +1 612-232-9212
+- <i class="fa fa-linkedin"></i>  [matt-pettis-79388b4](https://www.linkedin.com/in/matt-pettis-79388b4)
 - For more information, please contact me via email.
 
 
