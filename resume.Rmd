@@ -36,7 +36,7 @@ Skills {#skills}
 
 - Command-line Expertise, Linux: Bash tools, piping, batch processing.
 
-- Programming: Advanced - R, Python; Formerly Advanced - Perl, SAS.  Novice/Hobby: Clojure, Scala.
+- Programming: Advanced - R, Python; Formerly Advanced - Perl, SAS; Novice/Hobby: Clojure, Scala.
 
 - Worked mostly in AWS stack, some Azure.
 
@@ -56,7 +56,7 @@ Main
 Matt Pettis {#title}
 --------------------------------------------------------------------------------
 
-I have acquired deep experience with data science, data engineering, and model building over the span of my career.  I have also gained a breadth of experience applying this over such sectors as the legal field, pure IT, retail software, and the industrial/manufacturing sector.  My expertise has really become identifying the heart of the problem, creating helpful models and analytics, and being able to work from existing legacy systems to put into place actual functioning models into production.  I am passionate about bringing models from ideas and experiments into everyday business production workflows.
+I have acquired deep experience with data science, data engineering, and model building over the span of my career.  I have also gained a breadth of experience applying this over such sectors as the legal field, pure IT, retail software, and the industrial/manufacturing sector.  My expertise has become identifying the heart of the problem, creating helpful models and analytics, and being able to work from existing legacy systems to put into place actual functioning models into production.  I am passionate about bringing models from ideas and experiments into everyday business production workflows.
 
 
 
@@ -72,10 +72,14 @@ White Bear Lake, MN
 
 2019 - Current
 
-- Manage critical software team that is writing/rewriting R code to do custom analytics for flagship HVAC control and alerting offering (TraneConnect), as well as code and provide architectural frameworks and processes.  Highlight: perfect yearly performance review for my efforts leading this team for 2021.
 - Oversee existing machine learning projects with third parties.  Assess data science work of these parties, supply data, critique approaches and results, recommend solution purchases when appropriate.
 - Create models combining weather, building occupation, and HVAC system performance in order to optimize HVAC running policies.  Designing the deployment strategy for the model implementation and lifecycle.
-- Consult on architecture design for data lake corporate data strategies.
+- Create instrumentation tooling around new and extisting system APIs.  Created software to extract and display process DAG-dependencies.  Create batch processes from ReST-ful APIs.  Created software to translate API JSON payloads to editable CSV files and back to JSON format for our QA team so they could easily create functional tests.
+- Create automation tooling through the AWS CLI to automate Cloudwatch querying and analysis with offline tools.
+- Created automation tooling around gitlab to automate reporting around codebase commit and promotion.
+- Legacy software system design and migration.  Design and evaluate system migration between ReSTful-centric dataflow model to GraphQL-centric model.
+- Manage critical software team that is writing/rewriting R code to do custom analytics for flagship HVAC control and alerting offering (TraneConnect), as well as code and provide architectural frameworks and processes.  Highlight: perfect yearly performance review for my efforts leading this team for 2021.
+- Consult on architecture design for data lake corporate data strategies.  Consult on existing domain data modeling to handle structure and time-dependent requirements.
 
 
 
